@@ -53,5 +53,5 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
  
  - See that Jenkins is up and running
  
- - hit Ctrl+C to exit.
+ - Please consult support.
  
