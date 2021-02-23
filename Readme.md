@@ -3,7 +3,6 @@ Lab 01: First interactions with containers
 
 ---
 
- 
 ## Instructions
 
 - Pull the jenkins image:
@@ -54,5 +53,5 @@ This may also be found at: /var/jenkins_home/secrets/initialAdminPassword
  
  - See that Jenkins is up and running
  
- - hit Ctrl+C to exit from the container and make sure the UI is not accessible any longer.
+ - hit Ctrl+C to exit.
  
