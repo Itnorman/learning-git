@@ -31,7 +31,7 @@ $ docker run --name jenkins -p 8080:8080 ildcworkshops/jenkins
 
  - Browse to the Jenkins application
 ```
-http://localhost:8080
+http://localhost:8070
 
 ```
 
